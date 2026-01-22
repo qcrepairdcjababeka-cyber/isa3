@@ -1,0 +1,7 @@
+{
+  "name": " InvTrack Pro - SLOC Handover System",
+  "description": "A professional inventory management and handover application specializing in SLOC 1000 (Main Warehouse) and SLOC 1001 (Secondary Storage) movements with AI-powered reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
